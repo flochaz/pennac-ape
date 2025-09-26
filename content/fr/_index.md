@@ -4,7 +4,7 @@ title: Association des Parents d'Élèves de l'École Pennac
 
 {{< blocks/cover title="Bienvenue à l'Association des Parents d'Élèves de l'École Pennac" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="#adhesion">
-  Adhérer à l'association <i class="fas fa-users ms-2"></i>
+  Adhérer à l'association de l'École Pennac <i class="fas fa-users ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="#contact">
   Nous contacter <i class="fas fa-envelope ms-2"></i>
@@ -17,7 +17,7 @@ title: Association des Parents d'Élèves de l'École Pennac
 L'Association des Parents d'Élèves (APE) de l'école Pennac réunit les familles pour soutenir l'école, organiser des événements et renforcer la communauté scolaire.  
 Notre mission : représenter les familles, améliorer la vie scolaire et financer des projets pour nos enfants.
 {{% /blocks/lead %}}
-
+rm 
 {{% blocks/section color="info" type="row" %}}
 {{% blocks/feature icon="fa-users" title="Adhérer" %}}
 Envie de nous rejoindre ? <a href="#adhesion">Cliquez ici</a> pour devenir membre et participer à nos activités !
